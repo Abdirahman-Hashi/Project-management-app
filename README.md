@@ -43,6 +43,7 @@ php artisan key:generate
 4. Configure your database in .env:
 ```
 DB_CONNECTION=mysql
+=> Comment out below if you are using SQLite.
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=fao_projects
