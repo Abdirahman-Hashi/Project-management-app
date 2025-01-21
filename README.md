@@ -102,7 +102,13 @@ CREATE TABLE projects (
 
 ## Screenshots
 
-[Screenshots will be added here]
+<img width="1512" alt="Screenshot 2025-01-21 at 8 52 28 PM" src="https://github.com/user-attachments/assets/3dbb8250-7424-4429-a871-d0701a7c7eb9" />
+<img width="1512" alt="Screenshot 2025-01-21 at 8 53 21 PM" src="https://github.com/user-attachments/assets/2d46a025-3c76-4ec1-b057-4bd0ef44f21d" />
+<img width="1512" alt="Screenshot 2025-01-21 at 8 53 44 PM" src="https://github.com/user-attachments/assets/4d6c5712-5758-4dd8-b524-ec7aa930c6ab" />
+<img width="1450" alt="Screenshot 2025-01-21 at 8 59 49 PM" src="https://github.com/user-attachments/assets/4511b0bc-e8ef-49f4-82bb-c85f4735faf1" />
+<img width="1450" alt="Screenshot 2025-01-21 at 9 00 59 PM" src="https://github.com/user-attachments/assets/0b141db1-1821-454d-b07c-67f8feb9bb84" />
+
+
 
 ## Contributing
 
