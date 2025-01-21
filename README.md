@@ -110,15 +110,6 @@ CREATE TABLE projects (
 <img width="1450" alt="Screenshot 2025-01-21 at 9 00 59 PM" src="https://github.com/user-attachments/assets/0b141db1-1821-454d-b07c-67f8feb9bb84" />
 
 
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License.
