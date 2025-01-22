@@ -25,7 +25,7 @@ A full-stack application for managing projects built with Laravel (Backend) and 
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd fao-project
+cd Project-management-app
 ```
 
 2. Install PHP dependencies:
